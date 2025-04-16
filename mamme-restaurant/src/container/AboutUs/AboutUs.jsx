@@ -9,7 +9,8 @@ const AboutUs = () => (
     id="about"
   >
     <div className="app__aboutus-overlay flex__center">
-      <img src={images.G} alt="G_overlay" />
+      {/* <img src={images.G} alt="G_overlay" /> */}
+      <img src={images.G} alt="Moverlay" />
     </div>
 
     <div className="app__aboutus-content flex__center">
@@ -17,9 +18,12 @@ const AboutUs = () => (
         <h1 className="headtext__cormorant">About Us</h1>
         <img src={images.spoon} alt="about_spoon" className="spoon__img" />
         <p className="p__opensans">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis pharetra
-          adipiscing ultrices vulputate posuere tristique. In sed odio nec
-          aliquet eu proin mauris et.
+          Welcome to Mamme's, a place where the heart of home cooking meets the
+          warmth of Ethiopian hospitality, right here in Arba Minch. Inspired by
+          the cherished traditions and loving hands of "Mamme" (a term of
+          endearment for a mother or grandmother), our restaurant is a
+          celebration of authentic flavors and the joy of sharing a meal
+          together..
         </p>
         <button type="button" className="custom__button">
           Know More
@@ -34,9 +38,11 @@ const AboutUs = () => (
         <h1 className="headtext__cormorant">Our History</h1>
         <img src={images.spoon} alt="about_spoon" className="spoon__img" />
         <p className="p__opensans">
-          Adipiscing tempus ullamcorper lobortis odio tellus arcu volutpat.
-          Risus placerat morbi volutpat habitasse interdum mi aliquam In sed
-          odio nec aliquet.
+          The story of Mamme's began not in a grand opening, but in the heart of
+          a family kitchen right here in Arba Minch. For generations, the
+          recipes we now share were lovingly prepared by our own "Mamme" – a
+          woman whose passion for food was only matched by her desire to nourish
+          and bring people together.
         </p>
         <button type="button" className="custom__button">
           Know More
