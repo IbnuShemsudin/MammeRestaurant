@@ -20,10 +20,8 @@ import award05 from '../assets/award05.png';
 import sign from '../assets/sign.png';
 import quote from '../assets/quote.png';
 import gericht from '../assets/gericht.png';
-import MM from '../assets/M.png';
 import MRemoveBgPreview1 from "../assets/MRemoveBgPreview1.png";
-import juiceMaker from '../assets/juiceMaker.png';
-// import M from '../assets/M.png';import M from '../assets/M.png';
+import juice from "../assets/juice.jpg";
 
 export default {
   bg,
@@ -48,7 +46,7 @@ export default {
   sign,
   quote,
   gericht,
-  MM,
+  
   MRemoveBgPreview1,
-  juiceMaker,
+  juice,
 };
