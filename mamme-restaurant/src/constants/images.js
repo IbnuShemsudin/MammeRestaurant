@@ -22,7 +22,11 @@ import quote from '../assets/quote.png';
 import gericht from '../assets/gericht.png';
 import MRemoveBgPreview1 from "../assets/MRemoveBgPreview1.png";
 import juice from "../assets/juice.jpg";
-
+import cheff from "../assets/Cheff.jpg";
+import AbdureSign from "../assets/AbdureSign.png";
+import Abd from "../assets/Abd.png";
+import restaurant from "../assets/restaurant.jpg";
+import invitation from "../assets/invitation.jpg";
 export default {
   bg,
   chef,
@@ -46,7 +50,11 @@ export default {
   sign,
   quote,
   gericht,
-  
+  cheff,
   MRemoveBgPreview1,
   juice,
+  AbdureSign,
+  Abd,
+  restaurant,
+  invitation,
 };
