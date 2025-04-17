@@ -22,6 +22,7 @@ import quote from '../assets/quote.png';
 import gericht from '../assets/gericht.png';
 import MM from '../assets/M.png';
 import MRemoveBgPreview1 from "../assets/MRemoveBgPreview1.png";
+import juiceMaker from '../assets/juiceMaker.png';
 // import M from '../assets/M.png';import M from '../assets/M.png';
 
 export default {
@@ -49,4 +50,5 @@ export default {
   gericht,
   MM,
   MRemoveBgPreview1,
+  juiceMaker,
 };
