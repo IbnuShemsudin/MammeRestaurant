@@ -27,6 +27,8 @@ import AbdureSign from "../assets/AbdureSign.png";
 import Abd from "../assets/Abd.png";
 import restaurant from "../assets/restaurant.jpg";
 import invitation from "../assets/invitation.jpg";
+
+
 export default {
   bg,
   chef,
