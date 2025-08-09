@@ -16,3 +16,12 @@
 .app__footerOverlay-img {
     height: 75%;
 }
+.app__footerOverlay-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.app__footerOverlay-img img:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s ease-in-out;
+}
